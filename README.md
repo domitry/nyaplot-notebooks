@@ -9,4 +9,4 @@ If you created notebooks with it and would like to publish them, feel free to se
 |:---- |:--------- |:--------- |:-------:|:----------------:|
 | Line-1 | A solution of FitzHugh-Nagumo Model | Naoki Nishida | Line | [example](http://nbviewer.ipython.org/github/domitry/nyaplot-notebooks/blob/master/line.ipynb) |
 | Line-2 | A solution of FitzHugh-Nagumo Model + cyclic noise | Naoki Nishida | Line | [example](http://nbviewer.ipython.org/github/domitry/nyaplot-notebooks/blob/master/line2.ipynb) |
-| Line-3 |  | Naoki Nishida | Strange Attractors | [example](http://nbviewer.ipython.org/github/domitry/nyaplot-notebooks/blob/master/Strange_Attractors.ipynb) |
+| Line-3 | Strange Attractors | Naoki Nishida | Line | [example](http://nbviewer.ipython.org/github/domitry/nyaplot-notebooks/blob/master/Strange_Attractors.ipynb) |
